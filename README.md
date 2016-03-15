@@ -4,4 +4,4 @@ GitHubを検証するためのリポジトリ
 検証中
 ・Pull Request
 
-Test2(Takuya)
+Test3
